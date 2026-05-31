@@ -1,0 +1,16 @@
+# Dependencies for the Session 5 Assignment
+# This includes the dependencies for both the Agent/MCP Server and the LLM Gateway V2
+
+# Core MCP and Agent dependencies
+mcp>=1.27.1
+python-dotenv>=1.0.0
+httpx>=0.27.0
+pydantic>=2.6.0
+
+# Prefab UI Framework for generating the interactive agent dashboard
+prefab-ui>=0.19.1
+
+# LLM Gateway V2 dependencies
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+jsonschema>=4.21.0

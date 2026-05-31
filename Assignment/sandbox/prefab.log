@@ -1,0 +1,12 @@
+
+===== restart =====
+[DEBUG] Starting initialization...
+[DEBUG] sys.executable: D:\TSAI\Session5_Pyd_Gateway\.venv\Scripts\python.exe
+[DEBUG] prefab_cmd exists: True
+[DEBUG] Executing: ['D:\\TSAI\\Session5_Pyd_Gateway\\.venv\\Scripts\\prefab.exe', 'serve', 'dashboard_app.py', '--port', '5175', '--reload'] in cwd: D:\TSAI\Session5_Pyd_Gateway\Assignment\sandbox
+[DEBUG] Popen successful. PID: 2184
+[DEBUG] Waiting for server to bind to port...
+✓ Serving at http://127.0.0.1:5175 (reload enabled)
+  Press Ctrl+C to stop
+
+[DEBUG] Server ready after 1.0s

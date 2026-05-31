@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+.DS_Store
+
+# Virtual environments
+.venv
+
+# ClassNotes directory
+ClassNotes/
+
+# Environment files containing API keys
+.env
+*.env
+Assignment/.env
+Assignment/llm_gatewayV2/.env
+
+# Local Databases
+*.db
+gateway_v2.db
+Assignment/llm_gatewayV2/gateway_v2.db
